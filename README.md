@@ -91,7 +91,7 @@ A collection of prototypes and experiments I'm building around automation, knowl
 
 **LinkedIn:** [linkedin.com/in/amichalski1](https://www.linkedin.com/in/amichalski1/)  
 **Email:** hi@adammichalski.com  
-**Portfolio:** adammichalski.com
+**Portfolio:** adammichalski.com (DM me for the password)
 
 ---
 
