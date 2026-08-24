@@ -1,98 +1,71 @@
-# Hey there! I'm Adam 👋
+# Senior Product Designer working on AI, automation & complex products
 
-**Seasoned Product Designer specializing in AI & Automation Systems**  
-📍 Gdańsk, Poland (Remote) | 🎓 Psychology + 15+ years in UX/Product Design
+📍 Gdańsk, Poland | 🎓 Psychology + 15+ years in UX/Product Design
 
-## What I'm up to 🚀
+## What I work on 🚀
 
-- 🔭 Currently **exploring new opportunities** in AI-powered product design
-- 🌱 Experimenting with **AI, design, and automation** through personal projects
-- 🎓 Teaching the next generation of designers at **SWPS University**
-- 🧠 Bridging **technical feasibility** with **user needs** through research & rapid prototyping
+* **AI-powered workflows & automation:** exploring how AI can support complex product and operational workflows
+* **RAG setups:** simple retrieval flows, agentic RAG, hybrid search, local RAG, and knowledge-base integrations
+* **AI for Product Design & Research:** designing and delivering commercial training for organizations on practical AI use in product design and research
+* **AI-assisted prototyping:** using LLMs and coding tools to turn product ideas into working prototypes
+* **Complex B2B products:** simplifying technical workflows, integrations, configuration, and data-heavy interfaces
+* **AI-assisted design systems:** exploring how AI can improve component discovery, reuse, and implementation using Storybook
 
-## My sweet spot 🎯
+## About me 👋
 
-I design for **technical users**, turning complex AI and automation systems into intuitive, trustworthy tools. My psychology background helps me understand not just *what* users do, but *why* they do it.
+I'm a **Senior Product Designer** with 15+ years of experience designing complex digital products.
 
-**Current focus areas:**
-- AI-powered workflow automation
-- Technical system integrations  
-- Design for complex B2B products
-- Research-driven design decisions
+I work mainly on products where users need to understand complex systems, make decisions, configure workflows, or work with large amounts of information.
 
-## Tech stack & tools 🛠️
+My background in psychology, research, and experimentation helps me understand how people build mental models of complex systems and where products create unnecessary cognitive load.
 
-**Design & Research:**  
-Figma, Sketch, Axure, Miro, Notion, Jira, Hotjar, Google Analytics, Tableau
+Recently, I've been spending a lot of time building with AI, experimenting with RAG, automation, AI-assisted development, and new ways of integrating AI into product design workflows.
 
-**AI & Development:**  
-ChatGPT, Claude, Claude Code, Midjourney, Cursor, HTML/CSS/JavaScript, Git, JSON/YAML
+## What I'm building 🧪
 
-**Design Methods:**  
-JTBD, Journey Mapping, End-to-end UX, Generative & Evaluative Research, Design Systems
+### adammichalski.com
 
-## Projects I'm Experimenting With 🧪
+My portfolio and experimentation platform, designed and built end-to-end using AI-assisted development workflows.
 
-A collection of prototypes and experiments I'm building around automation, knowledge extraction, and custom interfaces.
+👉 [adammichalski.com](https://adammichalski.com/)
 
-**adammichalski.com** – comprehensive portfolio and experimentation platform built with modern AI tools.  
-👉 [adammichalski.com](https://adammichalski.com)  
-*Built with: Cursor, Claude, n8n, Midjourney, OpenAI*
+*Cursor, Claude, n8n, Midjourney, OpenAI*
 
-**Podcast Insights Extractor** – transforming long podcast transcripts into structured knowledge with highlights, interpretations, and action items.  
-👉 [Sample output](http://uxairforce.pl/encrypted-notes) *(Polish)*  
-*Powered by multiple LLMs (Anthropic, Gemini, OpenAI)*
+### Dragon Ball Card Tracker
 
-**Dragon Ball Card Tracker** – card management with filtering, URL states, local storage, n8n webhooks, and a flat database.  
+A card management prototype with filtering, URL-based states, local storage, n8n webhooks, and a flat-file database.
+
 👉 [v0-dragon-ball-tracker.vercel.app](https://v0-dragon-ball-tracker.vercel.app/)
 
-**Chat with n8n Orchestration** – a custom chat app that uses n8n for managing communication and conversation flows.  
+### Chat with n8n Orchestration
+
+A custom chat interface using n8n to orchestrate communication and conversation flows.
+
 👉 [adammichalski.com/portfolio](https://www.adammichalski.com/portfolio)
 
-**Custom Blog Templates** – built on top of WordPress REST API and GraphQL for flexible blog rendering.  
+### Custom Blog Templates
+
+Experiments with flexible content rendering built on top of WordPress REST API and GraphQL.
+
 👉 [uxairforce.vercel.app](https://uxairforce.vercel.app/)
 
-**Encrypted Notes Prototype** – experimenting with lightweight, encrypted note-taking.  
-👉 [uxairforce.vercel.app/encrypted-notes](https://uxairforce.vercel.app/encrypted-notes)
+## Tools I use 🛠️
 
-*Building at the intersection of design thinking and AI capabilities*
+**Design & Product:**
+Figma, research, analytics, prototyping, design systems
 
-## Beyond design 🎨
+**AI & Development:**
+ChatGPT, Claude Code, C, n8n, OpenAI APIs, Midjourney, HTML/CSS/JavaScript, Git, JSON/YAML
 
-**Community & Education:**
-- 🎓 **Head of UXD postgraduate studies** (2021-2024)
-- 🎤 **UX Lecturer** since 2014
-- 🎪 **Founder** of WUDTrojmiasto UX Conference (2013-2020)
-- 👥 **Managed 27+ mentors** with 92%+ student satisfaction
+## Community & education 🎓
 
-**Life outside work:**
-- 🥃 Mixology enthusiast
-- 💃 Latino dance
-- 🥊 MMA & BJJ training
-- 🤖 ML/AI exploration
-- 📈 Product-led growth strategies
+* **Head of UXD postgraduate studies**, 2021-2024
+* **UX Lecturer**, 2014-2025
+* **Founder of WUD Trójmiasto UX Conference**, 2013-2020
+* Managed a network of **27+ mentors** with 92%+ student satisfaction
 
-## My approach 💭
+## Let's connect 🤝
 
-> "If I had an hour to build with Claude code, I'd spend 55 minutes crafting the PRD and 5 minutes watching it code." — Albert Einstein (True story 😉)
-
-> "Slow is smooth, smooth is fast." — Navy SEALs
-
-*I believe in deep research and preparation before diving into solutions. Understanding the problem thoroughly leads to better, faster design decisions.*
-
-**Core strengths (CliftonStrengths Top 5):**
-- 🎯 **Achiever** - Getting things done
-- 📚 **Learner** - Always curious
-- 🔍 **Focus** - Deep work on what matters
-- 👤 **Individualization** - Understanding unique user needs
-- 🛠️ **Developer** - Building and improving
-
-## Let's connect! 🤝
-
-**LinkedIn:** [linkedin.com/in/amichalski1](https://www.linkedin.com/in/amichalski1/)  
-**Email:** hi@adammichalski.com  
-**Portfolio:** adammichalski.com (DM me for the password)
-
----
-
-*"Bridging technical feasibility with user needs through research, rapid prototyping, and close collaboration with engineering."*
+**LinkedIn:** [linkedin.com/in/amichalski1](https://www.linkedin.com/in/amichalski1/)
+**Email:** [hi@adammichalski.com](mailto:hi@adammichalski.com)
+**Portfolio:** [adammichalski.com](https://adammichalski.com/)
