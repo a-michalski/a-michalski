@@ -1,4 +1,4 @@
-# Senior Product Designer working on AI, automation & complex products
+# Product Designer building AI, automation, and complex B2B products
 
 📍 Gdańsk, Poland | 🎓 Psychology + 15+ years in UX/Product Design
 
@@ -13,7 +13,7 @@
 
 ## About me 👋
 
-I'm a **Senior Product Designer** with 15+ years of experience designing complex digital products.
+I'm a Product Designer with 15+ years of experience designing complex digital products. My experience spans both Senior and Principal Product Designer roles, with a focus on complex B2B systems, design systems, research, and AI-assisted product development.
 
 I work mainly on products where users need to understand complex systems, make decisions, configure workflows, or work with large amounts of information.
 
@@ -22,6 +22,22 @@ My background in psychology, research, and experimentation helps me understand h
 Recently, I've been spending a lot of time building with AI, experimenting with RAG, automation, AI-assisted development, and new ways of integrating AI into product design workflows.
 
 ## What I'm building 🧪
+
+### Leanium 🔒
+
+A native macOS menu bar app for understanding how AI-assisted development workloads use local resources, including CPU, memory, GPU, processes, ports, local services, and containers.
+
+Currently in stealth.
+
+*Swift, SwiftUI, AppKit*
+
+### DevInspector
+
+A Chrome extension for visual UI inspection, spacing measurement, color and typography analysis, CSS inspection, and accessibility auditing.
+
+Currently in stealth.
+
+*React, TypeScript, Vite, Chrome Extensions API*
 
 ### adammichalski.com
 
@@ -55,7 +71,7 @@ Experiments with flexible content rendering built on top of WordPress REST API a
 Figma, research, analytics, prototyping, design systems
 
 **AI & Development:**
-ChatGPT, Claude Code, C, n8n, OpenAI APIs, Midjourney, HTML/CSS/JavaScript, Git, JSON/YAML
+ Claude Code, Codex, n8n, OpenAI APIs, Midjourney, HTML/CSS/JavaScript, Git, JSON/YAML
 
 ## Community & education 🎓
 
@@ -66,6 +82,6 @@ ChatGPT, Claude Code, C, n8n, OpenAI APIs, Midjourney, HTML/CSS/JavaScript, Git,
 
 ## Let's connect 🤝
 
-**LinkedIn:** [linkedin.com/in/amichalski1](https://www.linkedin.com/in/amichalski1/)
-**Email:** [hi@adammichalski.com](mailto:hi@adammichalski.com)
+**LinkedIn:** [linkedin.com/in/amichalski1](https://www.linkedin.com/in/amichalski1/)  
+**Email:** [hi@adammichalski.com](mailto:hi@adammichalski.com)  
 **Portfolio:** [adammichalski.com](https://adammichalski.com/)
